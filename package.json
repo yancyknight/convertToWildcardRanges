@@ -1,0 +1,15 @@
+{
+  "name": "use-wildcard-ranges",
+  "version": "1.0.0",
+  "description": "A small npm package that provides a script to convert package.json dependency version ranges from ~#.#.# to #.#.x and from ^#.#.# to #.x.x",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "use-wildcard-ranges": "./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
